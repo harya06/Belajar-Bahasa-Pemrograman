@@ -1,0 +1,32 @@
+x = int(23)
+y = int("243")
+z = int(2342.9)
+w = int(float("5165.564"))
+
+print(x)
+print(y)
+print(z)
+print(w)
+print(16*"=")
+
+x = float(3434)
+y = float (654564.54)
+z = float("455")
+w = float("5454.541")
+
+print(x)
+print(y)
+print(z)
+print(w)
+print(16*"=")
+
+x = str(65444)
+y = str(5544.54)
+z = str("huah98sadh")
+w = str(False)
+
+print(x)
+print(y)
+print(z)
+print(w)
+print(16*"=")
